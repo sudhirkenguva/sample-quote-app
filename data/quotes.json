@@ -1,24 +1,20 @@
 [
   {
-    "id": 1, 
     "quotes": "To get success multiply your failure rate",
     "author": "Unknown",
     "imageUrl": "http://www.sampleimage.com/samplePic.jpg"
   },
   {
-    "id": 2, 
     "quotes": "Where there is will there is a way",
     "author": "Unknown",
     "imageUrl": "http://www.sampleimage.com/samplePic.jpg"
   },
   {
-    "id": 3, 
     "quotes": "quote3",
     "author": "Unknown",
     "imageUrl": "http://www.sampleimage.com/samplePic.jpg"
   },
   {
-    "id": 4, 
     "quotes": "quote4",
     "author": "Unknown",
     "imageUrl": "http://www.sampleimage.com/samplePic.jpg"

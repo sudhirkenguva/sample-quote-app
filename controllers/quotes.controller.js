@@ -1,7 +1,7 @@
-function getAllQuotes(req, res, next) {
-  
-  console.log("/ route being called....")
-  var quotes = require("../data/quotes.json");
+let QuotesSchema = require("../models/quotes.mongoSchema")
+async function getAllQuotes(req, res, next) {
+
+  let quotes = await QuotesSchema.find();
   res.status(400).send({msg: "succss", data: quotes})
 };
 
